@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio Sanz</h1>
-<h3 align="center">Ingeniero informático que ha estudiado el grado en ingeniería informática con mención en ingeniería del software en la Universidad de Valladolid.</h3>
+<h3 align="center">Ingeniero informático con estudios en grado en ingeniería informática con mención en ingeniería del software en la Universidad de Valladolid.</h3>
+<h3 align="center">Actualmente trabajando como Consultor TI. Desarrollo de ETL y análisis de datos.</h3>
 
 <h3 align="center">A software engineer who has studied a degree in computer engineering with a mention in software engineering at the University of Valladolid.</h3>
 
