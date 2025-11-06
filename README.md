@@ -4,7 +4,7 @@
 
 <h3 align="center">A software engineer who has studied a degree in computer engineering with a mention in software engineering at the University of Valladolid.</h3>
 
-- 💬 Ask me about **Java, Android, C, HTML, CSS, Javascript**
+- 💬 Ask me about **Java, Android, C, HTML, CSS, Javascript, SQL, Oracle Tools**
 
 - 📫 How to reach me **sergiosanzs01@gmail.com**
 
